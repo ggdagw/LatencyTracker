@@ -1,7 +1,7 @@
 # LatencyTracker
 A demonstration of a latency tracker plugin for Open Ephys
 
-![The current plugin](https://user-images.githubusercontent.com/4569596/72152286-717da680-33a2-11ea-91b1-efe64213ec12.png)
+![The current plugin](https://user-images.githubusercontent.com/4569596/72259595-c884b500-3608-11ea-8521-824292bc3f10.gif)
 
 
 
